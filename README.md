@@ -10,4 +10,4 @@ Entries are listed by reading month, newest first. The number in parentheses ind
 
 ## 2026-09 (1)
 
-- [Fast-WAM: Do World Action Models Need Test-time Future Imagination?](https://arxiv.org/abs/2603.16666) [[Notes](Fast-WAM-2603.16666.md)] [World Action Models, Video Modeling, Robot Learning]
+- [Fast-WAM: Do World Action Models Need Test-time Future Imagination?](https://arxiv.org/abs/2603.16666) [[Notes](world-action-model/Fast-WAM-2603.16666.md)] [World Action Models, Video Modeling, Robot Learning]
