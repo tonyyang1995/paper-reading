@@ -1,10 +1,10 @@
-# Fast-WAM 阅读笔记
+# Fast-WAM Reading Notes
 
-- 论文：Fast-WAM: Do World Action Models Need Test-time Future Imagination?
-- 原文：https://arxiv.org/pdf/2603.16666
-- 阅读版本：arXiv v2，2026-03-23
-- 开始日期：2026-09-23
-- 状态：初读；以下区分论文主张与待验证问题。
+- Paper: Fast-WAM: Do World Action Models Need Test-time Future Imagination?
+- Original paper: [PDF](https://arxiv.org/pdf/2603.16666)
+- Version reviewed: arXiv v2, 2026-03-23
+- Reading started: 2026-09-23
+- Status: Initial reading; these notes distinguish the authors' claims from questions requiring further verification.
 
 ## 1. Problem Statement
 
