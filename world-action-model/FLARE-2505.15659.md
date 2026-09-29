@@ -96,13 +96,13 @@ Thus pretraining requires an action prediction network, not merely a standalone 
 Initialize the policy observation encoder and target encoder from the trained embedding model. Add future tokens **from the start of this stage**, and train with both action flow matching and future alignment:
 
 $$
-\widehat Z^+=\operatorname{MLP}(F^{(6)}),\qquad
+\widehat Z^+=\mathrm{MLP}(F^{(6)}),\qquad
 Z^+=E_{\mathrm{target}}(o_{t+H},l).
 $$
 
 $$
 \mathcal L_{\mathrm{align}}
-=\mathbb E\left[1-\cos\left(\widehat Z^+,\operatorname{sg}(Z^+)\right)\right],
+=\mathbb E\left[1-\cos\left(\widehat Z^+,\mathrm{sg}(Z^+)\right)\right],
 \qquad
 \mathcal L=\mathcal L_{\mathrm{FM}}+0.2\mathcal L_{\mathrm{align}}.
 $$
