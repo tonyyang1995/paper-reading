@@ -8,6 +8,7 @@ The reading log follows the format of [Patrick Liu's Learning-Deep-Learning](htt
 
 Entries are listed by reading month, newest first. The number in parentheses indicates the number of papers with notes. Notes are updated as reading progresses.
 
-## 2026-09 (1)
+## 2026-09 (2)
 
+- [FLARE: Robot Learning with Implicit World Modeling](https://arxiv.org/abs/2505.15659) [[Notes](world-action-model/FLARE-2505.15659.md)] [Implicit World Modeling, Representation Alignment, Robot Learning]
 - [Fast-WAM: Do World Action Models Need Test-time Future Imagination?](https://arxiv.org/abs/2603.16666) [[Notes](world-action-model/Fast-WAM-2603.16666.md)] [World Action Models, Video Modeling, Robot Learning]
