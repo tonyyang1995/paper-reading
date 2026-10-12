@@ -8,6 +8,10 @@ The reading log follows the format of [Patrick Liu's Learning-Deep-Learning](htt
 
 Entries are listed by reading month, newest first. The number in parentheses indicates the number of papers with notes. Notes are updated as reading progresses.
 
+## 2026-10 (1)
+
+- [VISTA: A Visual Harness for Reasoning in an Interactive World](https://arxiv.org/abs/2610.02200) [[Notes](LLM/VISTA-2610.02200.md)] [Multimodal Agents, Visual Memory, Agent Harnesses]
+
 ## 2026-09 (2)
 
 - [FLARE: Robot Learning with Implicit World Modeling](https://arxiv.org/abs/2505.15659) [[Notes](world-action-model/FLARE-2505.15659.md)] [Implicit World Modeling, Representation Alignment, Robot Learning]
